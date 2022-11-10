@@ -1,0 +1,2 @@
+1.deploy the ML model in IBM cloud.
+2.Integrate the webpage with the IBM model
